@@ -1,1 +1,3 @@
-Curso Node auspiciado por Midudev
+Curso Node - Express JS auspiciado por Midudev
+
+Creación y despliegue de API REST
