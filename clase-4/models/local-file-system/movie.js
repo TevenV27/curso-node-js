@@ -1,7 +1,7 @@
 import { createRequire } from 'node:module'
 import { randomUUID } from 'node:crypto'
 const require = createRequire(import.meta.url)
-const movies = require('../movies.json')
+const movies = require('../../movies.json')
 
 export class MovieModel {
 
